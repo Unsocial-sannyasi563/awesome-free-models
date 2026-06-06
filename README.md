@@ -29,6 +29,8 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## Open-Weight Models
 
+> 📅 Last checked: June 6, 2026
+
 Open-weight models released since March 2026 that you can download and run on your own hardware.
 
 - [Llama 4 Scout / Maverick](https://huggingface.co/meta-llama) - Meta's latest MoE generation. Scout: 109B, 10M context. Maverick: 402B, 1M context. Native multimodal. [[License]](https://github.com/facebookresearch/llama/blob/main/LICENSE)
@@ -40,6 +42,8 @@ Open-weight models released since March 2026 that you can download and run on yo
 - [Trinity (Arcee AI)](https://huggingface.co/arcee-ai) - 400B parameter enterprise model. Apache 2.0.
 
 ## Free API Providers
+
+> 📅 Last checked: June 6, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -58,6 +62,8 @@ Providers offering free tiers to access models via API — no local hardware req
 - [CatGPT](https://www.catgpt.cc/) - Completely free chat with multiple models, no login required.
 
 ## Local Inference Tools
+
+> 📅 Last checked: June 6, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -79,6 +85,8 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## AI Chatbot UIs
 
+> 📅 Last checked: June 6, 2026
+
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
 - [Open WebUI](https://openwebui.com/) - Feature-rich ChatGPT-like interface for Ollama and OpenAI-compatible backends. RAG, image generation, multi-user. [GitHub](https://github.com/open-webui/open-webui)
@@ -90,6 +98,8 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 - [NextChat (ChatGPT-Next-Web)](https://github.com/ChatGPTNextWeb/NextChat) - Lightweight cross-platform chat app. Self-host on Vercel or download official desktop/mobile clients.
 
 ## AI Coding Assistants
+
+> 📅 Last checked: June 6, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -105,11 +115,15 @@ Free tools that integrate AI into your development workflow.
 
 ## Code Models
 
+> 📅 Last checked: June 6, 2026
+
 Specialized for code generation, completion, and analysis.
 
 - [MAI-Code-1-Flash (Microsoft)](https://huggingface.co/microsoft) - **Jun 2026.** Microsoft's open-weight coding model for lowering infrastructure costs.
 
 ## RAG & Vector Databases
+
+> 📅 Last checked: June 6, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -125,6 +139,8 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 - [Unstructured.io](https://unstructured.io/) - Preprocessing toolkit for documents (PDF, HTML, Word) for RAG pipelines. Free tier available.
 
 ## Agentic Frameworks
+
+> 📅 Last checked: June 6, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -143,6 +159,8 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## Fine-tuning Tools
 
+> 📅 Last checked: June 6, 2026
+
 Tools to fine-tune free models on your own data — all free and open-source.
 
 - [Unsloth](https://github.com/unslothai/unsloth) - Fast memory-efficient fine-tuning. 2x faster, 50% less memory. Supports QLoRA, LoRA, full fine-tune.
@@ -156,6 +174,8 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## Prompt Engineering Tools
 
+> 📅 Last checked: June 6, 2026
+
 Free tools for testing, managing, and optimizing prompts.
 
 - [Promptfoo](https://www.promptfoo.dev/) - Open-source tool for prompt testing and evaluation. Systematic A/B testing of prompts. [GitHub](https://github.com/promptfoo/promptfoo)
@@ -166,6 +186,8 @@ Free tools for testing, managing, and optimizing prompts.
 - [Agenta](https://agenta.ai/) - Open-source LLM platform for prompt management, evaluation, and deployment. [GitHub](https://github.com/Agenta-AI/agenta)
 
 ## Datasets
+
+> 📅 Last checked: June 6, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
@@ -183,6 +205,8 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## Model Hosting Platforms
 
+> 📅 Last checked: June 6, 2026
+
 Free platforms that host models — run inference without downloading anything.
 
 - [Hugging Face Spaces](https://huggingface.co/spaces) - Free hosting for ML apps (Gradio, Streamlit). Thousands of community demos.
@@ -195,6 +219,8 @@ Free platforms that host models — run inference without downloading anything.
 - [Deepnote](https://deepnote.com/) - Free tier with GPU for data science and ML notebooks.
 
 ## Learning Resources
+
+> 📅 Last checked: June 6, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -211,6 +237,8 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## Resources & Leaderboards
 
+> 📅 Last checked: June 6, 2026
+
 - [Perplexity](https://www.perplexity.ai/) - Free AI search and research assistant with real-time answers and source citations.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) - The primary benchmark for open-weight models. Updated regularly.
 - [LMSYS Chatbot Arena](https://lmarena.ai/) - Human preference rankings of models. Best source for real-world quality comparisons.
@@ -222,6 +250,8 @@ Free courses, books, and tutorials for learning AI and LLMs.
 - [SweetTea](https://www.sweettea.ai/) - Community voting on model quality and preference.
 
 ## Communities
+
+> 📅 Last checked: June 6, 2026
 
 - [Hugging Face Discord](https://discord.gg/huggingface) - Model releases, discussions, and community support.
 - [r/LocalLLaMA](https://reddit.com/r/LocalLLaMA) - The largest Reddit community for running local LLMs.
