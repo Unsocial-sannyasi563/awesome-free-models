@@ -4,6 +4,8 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%206%2C%202026-brightgreen?style=for-the-badge)
 
+> ✅ All links verified live on June 6, 2026. [Broken links found and fixed: 5](#) during this check.
+
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
 
@@ -49,7 +51,7 @@ Providers offering free tiers to access models via API — no local hardware req
 - [DeepInfra](https://deepinfra.com/) - Serverless inference. Free tier with daily rate limits for popular open-source models.
 - [Together AI](https://www.together.ai/) - Free trial credits for new users. Fast inference on open-source models.
 - [Fireworks AI](https://fireworks.ai/) - Free tier for community models. Optimized for low latency.
-- [Perplexity Labs](https://labs.perplexity.ai/) - Free access to Sonar models and open-source models for testing.
+- [Perplexity](https://www.perplexity.ai/) - Free AI search and assistant with access to Sonar models. Formerly labs.perplexity.ai.
 - [SiliconFlow](https://siliconflow.cn/) - Rising platform with free access to many open-source models.
 - [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) - Free tier for running select open-source models at the edge.
 - [Replicate](https://replicate.com/) - Free tier with limited credits for running open-source models.
@@ -86,7 +88,7 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 - [Big-AGI](https://big-agi.com/) - Feature-rich AI chat with personas, multi-model support, voice, and code execution. [GitHub](https://github.com/enricoros/big-agi)
 - [Lobe Chat](https://lobehub.com/) - Modern, extensible chat framework with plugin system and multi-provider support. [GitHub](https://github.com/lobehub/lobe-chat)
 - [Chatbot UI](https://www.chatbotui.com/) - Simple, clean ChatGPT interface. Easy to self-host with any OpenAI-compatible API. [GitHub](https://github.com/mckaywrigley/chatbot-ui)
-- [NextChat (ChatGPT-Next-Web)](https://nextchat.dev/) - Lightweight cross-platform chat app. One-click deploy to Vercel. [GitHub](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+- [NextChat (ChatGPT-Next-Web)](https://github.com/ChatGPTNextWeb/NextChat) - Lightweight cross-platform chat app. Self-host on Vercel or download official desktop/mobile clients.
 
 ## AI Coding Assistants
 
@@ -119,8 +121,8 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 - [Weaviate](https://weaviate.io/) - Open-source vector database. Free sandbox tier on Weaviate Cloud. [GitHub](https://github.com/weaviate/weaviate)
 - [Milvus (Zilliz)](https://milvus.io/) - Cloud-native vector database. Free tier on Zilliz Cloud or self-host. [GitHub](https://github.com/milvus-io/milvus)
 - [txtai](https://neuml.github.io/txtai/) - AI-powered semantic search and RAG in a single Python package. [GitHub](https://github.com/neuml/txtai)
-- [R2R (SciPhi)](https://r2r-docs.sciphi.ai/) - Production-ready RAG engine with API, user management, and observability. [GitHub](https://github.com/SciPhi-AI/R2R)
-- [Docling (IBM)](https://docling.ibm.com/) - Document understanding and conversion for RAG pipelines. Extracts PDFs, images, and more. [GitHub](https://github.com/DS4SD/docling)
+- [R2R (SciPhi)](https://github.com/SciPhi-AI/R2R) - Production-ready RAG engine with API, user management, and observability.
+- [Docling (IBM)](https://www.docling.ai/) - Document understanding and conversion for RAG pipelines. Extracts PDFs, images, and more. [GitHub](https://github.com/DS4SD/docling)
 - [Unstructured.io](https://unstructured.io/) - Preprocessing toolkit for documents (PDF, HTML, Word) for RAG pipelines. Free tier available.
 
 ## Agentic Frameworks
@@ -160,7 +162,7 @@ Free tools for testing, managing, and optimizing prompts.
 - [Promptfoo](https://www.promptfoo.dev/) - Open-source tool for prompt testing and evaluation. Systematic A/B testing of prompts. [GitHub](https://github.com/promptfoo/promptfoo)
 - [Fabric (Daniel Miessler)](https://github.com/danielmiessler/fabric) - Open-source framework for augmenting humans with AI. Library of curated prompts (patterns) for common tasks.
 - [LangFuse](https://langfuse.com/) - Open-source LLM engineering platform with prompt management, versioning, and evaluation. [GitHub](https://github.com/langfuse/langfuse)
-- [OpenPrompt](https://thunlp.github.io/OpenPrompt/README.html) - Framework for prompt-learning research. Supports template and verbalizer design.
+- [OpenPrompt (THUNLP)](https://thunlp.github.io/OpenPrompt/) - Framework for prompt-learning research. Supports template and verbalizer design. [GitHub](https://github.com/thunlp/OpenPrompt)
 - [DSPy (Stanford)](https://dspy.ai/) - Framework for algorithmically optimizing LM prompts and weights. [GitHub](https://github.com/stanfordnlp/dspy)
 - [Agenta](https://agenta.ai/) - Open-source LLM platform for prompt management, evaluation, and deployment. [GitHub](https://github.com/Agenta-AI/agenta)
 
