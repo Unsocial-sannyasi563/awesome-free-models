@@ -216,6 +216,15 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 - [Flowise](https://flowiseai.com/) — Low-code visual LLM flow builder with drag-and-drop interface. [GitHub](https://github.com/FlowiseAI/Flowise)
 - [TaskWeaver (Microsoft)](https://microsoft.github.io/TaskWeaver/) — Code-first agent framework for planning and executing complex tasks. [GitHub](https://github.com/microsoft/TaskWeaver)
 - [Fazm](https://github.com/mediar-ai/fazm) — **Apr 2026.** Open-source local computer-use agent for macOS. Drives apps via accessibility APIs, model-agnostic, faster than screenshot-based agents.
+- [Smolagents (Hugging Face)](https://github.com/huggingface/smolagents) — Minimalist agent library where agents "think in code." Lightweight, zero boilerplate. Supports code agents and tool-calling agents.
+- [Swarms](https://github.com/kyegomez/swarms) — Enterprise-grade multi-agent orchestration framework. Scalable infrastructure for autonomous agent swarms. Highly modular.
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) — Framework for long-term agent memory. Virtual memory management that pages data in/out of context like an OS. Persistent agents.
+- [Griptape](https://github.com/griptape-ai/griptape) — Enterprise agent framework with strictly typed Pipelines, Workflows, and Agents. Structure-first, production-ready.
+- [OpenAI Swarm](https://github.com/openai/swarm) — Experimental lightweight multi-agent orchestration. Uses Agents and Handoffs abstractions. Educational and minimalist. [GitHub](https://github.com/openai/swarm)
+- [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) — Framework inspired by Atomic Design. Compose agents from small, reusable, modular components. Testable and scalable.
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) — Low-code multi-agent framework. Define agent roles, tasks, and flows via YAML configuration. Wraps underlying agent frameworks.
+- [Cognee](https://github.com/topoteretes/cognee) — GraphRAG framework for agent knowledge management. Builds interconnected knowledge graphs from unstructured data.
+- [AgentZero](https://github.com/Agentzerodotfun/agent-zero-main) — Self-healing autonomous agent with web UI. Manages own workflows, tool use, and environment. Self-evolving capabilities.
 
 ---
 
