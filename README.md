@@ -6,6 +6,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## Contents
 
+- [Recent Releases (Apr–Jun 2026)](#recent-releases-aprjun-2026)
 - [Open-Weight Models](#open-weight-models)
   - [Llama Family (Meta)](#llama-family-meta)
   - [Qwen Family (Alibaba)](#qwen-family-alibaba)
@@ -34,6 +35,22 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 - [Resources & Leaderboards](#resources--leaderboards)
 - [Communities](#communities)
 
+## Recent Releases (Apr–Jun 2026)
+
+> 🔥 The newest additions to this list — models and tools released or with major updates in the last 2 months.
+
+- [Gemma 4 (Google)](https://huggingface.co/google) - **April 2026.** Google's latest open-weight family with fully permissive Apache 2.0 license. Includes 31B dense, 26B MoE variants, and E4B/E2B edge models. 256K context, native multimodal.
+- [DeepSeek V4](https://huggingface.co/deepseek-ai) - **April 2026.** Latest generation with extreme cost-efficiency. MIT license.
+- [Qwen 3.6-Plus (Alibaba)](https://huggingface.co/Qwen) - **April 2026.** Agentic coding variant with 1M token context window. Apache 2.0.
+- [Llama 4 Scout / Maverick (Meta)](https://huggingface.co/meta-llama) - **April 2026.** Scout: 109B MoE with 10M context. Maverick: 402B MoE with 1M context. Native multimodal.
+- [GLM-5.1 (Zhipu AI)](https://huggingface.co/THUDM) - **May 2026.** 744B MoE model, competitive with top proprietary models. MIT license.
+- [MiniMax M3](https://huggingface.co/Minimax) - **June 2026.** Frontier-tier open-weight model. 1M context, native multimodal + computer use. MiniMax Sparse Attention architecture.
+- [Trinity (Arcee AI)](https://huggingface.co/arcee-ai) - **May 2026.** 400B parameter open-weight model for enterprises. Apache 2.0.
+- [MAI-Code-1-Flash (Microsoft)](https://huggingface.co/microsoft) - **June 2026.** Microsoft's inaugural open-weight coding model for lowering infrastructure costs.
+- [Fazm](https://github.com/fazm-ai/fazm) - **April 2026.** Open-source local computer-use agent for macOS. Drives apps via accessibility APIs, model-agnostic.
+- [Cursor 3](https://www.cursor.com/) - **Apr 2026.** Major update to AI-native code editor with deeper model integration and agentic features.
+- [Windsurf (Codeium)](https://codeium.com/windsurf) - **New (2026).** AI-native IDE with deep contextual understanding, free tier for individuals.
+
 ## Open-Weight Models
 
 Models you can download and run on your own hardware. Most use permissive licenses (Apache 2.0, MIT, or custom open-weight licenses).
@@ -53,7 +70,8 @@ The industry standard for open-weight models. Optimized for local hardware with 
 
 Top-tier performers across language, code, and vision tasks. Released under Apache 2.0.
 
-- [Qwen3 0.6B / 1.7B / 7B / 14B / 32B / 110B / 235B](https://huggingface.co/Qwen) - Latest generation. Excellent reasoning, multilingual support. Apache 2.0.
+- [Qwen 3.6-Plus](https://huggingface.co/Qwen) - **NEW (Apr 2026).** Agentic coding model with 1M token context window. Apache 2.0.
+- [Qwen3 0.6B / 1.7B / 7B / 14B / 32B / 110B / 235B](https://huggingface.co/Qwen) - Excellent reasoning, multilingual support. Apache 2.0.
 - [Qwen3-Coder](https://huggingface.co/Qwen/Qwen3-Coder-14B) - Code-specialized variant, state-of-the-art for open-weight coding.
 - [Qwen3-VL](https://huggingface.co/Qwen/Qwen3-VL-7B) - Vision-language model, strong on document and image understanding.
 - [Qwen2.5 7B / 32B / 72B](https://huggingface.co/Qwen) - Mature ecosystem, tons of community fine-tunes and tools.
@@ -79,10 +97,10 @@ Known for high-quality, efficient models that run well on consumer hardware.
 
 Exceptional reasoning and coding performance. Known for efficiency innovations.
 
+- [DeepSeek V4](https://huggingface.co/deepseek-ai) - **NEW (Apr 2026).** Latest generation with extreme cost-efficiency. MIT license.
 - [DeepSeek V3](https://huggingface.co/deepseek-ai/DeepSeek-V3) - Large MoE model rivaling top closed-source models.
 - [DeepSeek R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) - Reasoning-focused model with chain-of-thought capabilities.
 - [DeepSeek Coder V2 / V3](https://huggingface.co/deepseek-ai) - State-of-the-art code generation and completion.
-- [DeepSeek V2](https://huggingface.co/deepseek-ai) - Previous generation, still very capable.
 
 **License:** MIT (most models) — fully permissive for commercial use.
 
@@ -90,13 +108,14 @@ Exceptional reasoning and coding performance. Known for efficiency innovations.
 
 Google's open-weight line. Excellent efficiency and quality.
 
-- [Gemma 3 1B / 4B / 12B / 27B](https://huggingface.co/google) - Latest generation with strong multilingual and reasoning performance.
+- [Gemma 4 31B / 26B MoE / E4B / E2B](https://huggingface.co/google) - **NEW (Apr 2026).** Fully permissive Apache 2.0 license. 256K context, native multimodal. New standard for open-weight.
+- [Gemma 3 1B / 4B / 12B / 27B](https://huggingface.co/google) - Strong multilingual and reasoning performance.
 - [Gemma 2 2B / 9B / 27B](https://huggingface.co/google) - Widely adopted, punch above their weight class.
 - [CodeGemma 2B / 7B](https://huggingface.co/google) - Code-specialized variants.
 - [RecurrentGemma 2B / 9B](https://huggingface.co/google) - Recurrent architecture variant, efficient for long sequences.
 - [EmbeddingGemma 300M](https://huggingface.co/google) - Lightweight embedding model for RAG.
 
-**License:** Custom open-weight license — generally permissive including commercial use.
+**License:** Apache 2.0 (Gemma 4), custom open-weight (Gemma 2/3).
 
 ### Phi Family (Microsoft)
 
@@ -111,6 +130,9 @@ Small models that punch far above their weight. Perfect for edge deployment and 
 
 ### Other Notable Models
 
+- [GLM-5.1 (Zhipu AI)](https://huggingface.co/THUDM) - **NEW (May 2026).** 744B MoE model, competitive with top proprietary models. MIT license.
+- [MiniMax M3](https://huggingface.co/Minimax) - **NEW (Jun 2026).** Frontier-tier 1M context, native multimodal + computer use. MSA architecture.
+- [Trinity (Arcee AI)](https://huggingface.co/arcee-ai) - **NEW (May 2026).** 400B parameter enterprise model. Apache 2.0.
 - [GLM-4 / GLM-4V (Zhipu AI)](https://huggingface.co/THUDM) - Strong multilingual model, MIT license.
 - [Falcon 2 / 3 (TII)](https://huggingface.co/tiiuae) - Apache 2.0, available in multiple sizes.
 - [Yi 1.5 / Yi 1.5-Chat (01.AI)](https://huggingface.co/01-ai) - Strong bilingual (Chinese/English) models.
@@ -225,6 +247,7 @@ Specialized for code generation, completion, and analysis.
 - [DeepSeek-Coder V2 / V3](https://huggingface.co/deepseek-ai) - Rivals GPT-4 on coding benchmarks. MIT license.
 - [Codestral (Mistral)](https://huggingface.co/mistralai) - Mistral's code model with permissive license.
 - [CodeGemma 2B / 7B (Google)](https://huggingface.co/google) - Lightweight code models for completion and generation.
+- [MAI-Code-1-Flash (Microsoft)](https://huggingface.co/microsoft) - **NEW (Jun 2026).** Microsoft's open-weight coding model for lowering infrastructure costs.
 - [Code Llama 7B / 13B / 34B / 70B (Meta)](https://huggingface.co/meta-llama) - Meta's code-specialized Llama variants.
 - [StarCoder2 3B / 7B / 15B](https://huggingface.co/bigcode) - Trained on The Stack v2 (619 programming languages). Apache 2.0.
 - [Stable Code 3B](https://huggingface.co/stabilityai) - Compact code model for fill-in-the-middle tasks.
@@ -324,6 +347,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 - [Dify](https://dify.ai/) - LLM app development platform with visual workflow builder and agent capabilities. [GitHub](https://github.com/langgenius/dify)
 - [Flowise](https://flowiseai.com/) - Low-code visual LLM flow builder with drag-and-drop interface. [GitHub](https://github.com/FlowiseAI/Flowise)
 - [TaskWeaver (Microsoft)](https://microsoft.github.io/TaskWeaver/) - Code-first agent framework for planning and executing complex tasks. [GitHub](https://github.com/microsoft/TaskWeaver)
+- [Fazm](https://github.com/fazm-ai/fazm) - **NEW (Apr 2026).** Open-source local computer-use agent for macOS. Drives apps via accessibility APIs, model-agnostic, faster than screenshot-based agents.
 
 ## Fine-tuning Tools
 
