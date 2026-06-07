@@ -102,6 +102,7 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Amazon Bedrock](https://aws.amazon.com/bedrock/) | **$200 AWS credits** for new customers. Access to Llama, Mistral, Claude, Titan, and other foundation models via API. |
 | [Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry/) | **$200 free trial credits** (30 days). Access GPT-4o, Llama, Mistral, Phi, and other models via Azure's unified AI platform. |
 | [RunPod](https://runpod.io/) | Free credits for serverless GPU inference. Deploy open-weight models as serverless endpoints. Supports Llama, Qwen, DeepSeek, and more. |
+| [OpenCode](https://opencode.ai/) | Go-based terminal AI coding assistant. Model-neutral, supports multiple LLM providers, LSP integration, and MCP tools. Free and open-source. [GitHub](https://github.com/opencode-ai/opencode) |
 
 ---
 
