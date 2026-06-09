@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%208%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-June%209%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-150-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 8, 2026. 6 broken links found and fixed during this check.
+> ✅ All links verified live on June 9, 2026. 6 broken links found and fixed during this check.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -36,7 +36,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -67,7 +67,7 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -108,7 +108,7 @@ Providers offering free tiers to access models via API — no local hardware req
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -143,7 +143,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -161,7 +161,7 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -190,7 +190,7 @@ Free tools that integrate AI into your development workflow.
 
 ## 📝 Code Models
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -218,7 +218,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -239,7 +239,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -280,7 +280,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -299,7 +299,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -316,7 +316,7 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
@@ -338,7 +338,7 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -357,7 +357,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -378,7 +378,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 | Name | Description |
 |------|-------------|
@@ -396,7 +396,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: June 8, 2026
+> 📅 Last checked: June 9, 2026
 
 | Name | Description |
 |------|-------------|
