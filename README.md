@@ -234,6 +234,10 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 | [R2R (SciPhi)](https://github.com/SciPhi-AI/R2R) | Production-ready RAG engine with API, user management, and observability. |
 | [Docling (IBM)](https://www.docling.ai/) | Document understanding and conversion for RAG pipelines. Extracts PDFs, images, and more. [GitHub](https://github.com/DS4SD/docling) |
 | [Unstructured.io](https://unstructured.io/) | Preprocessing toolkit for documents (PDF, HTML, Word) for RAG pipelines. Free tier available. |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Open-source RAG engine with deep document parsing, OCR, and knowledge base management. Supports多种 document formats. |
+| [RAGatouille](https://github.com/AnswerDotAI/RAGatouille) | Python package bringing ColBERT-style late interaction retrieval to RAG pipelines. Works as retriever and reranker. Free and open-source. |
+| [Canopy (Pinecone)](https://github.com/pinecone-io/canopy) | Open-source RAG framework built on Pinecone. End-to-end retrieval and generation with built-in chat interface. |
+| [Ragas](https://github.com/explodinggradients/ragas) | Open-source evaluation framework for RAG pipelines. Measures retrieval accuracy, answer relevance, and faithfulness. |
 
 ---
 
