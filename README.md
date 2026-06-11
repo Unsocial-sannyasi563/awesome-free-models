@@ -4,7 +4,7 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2011%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-150-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-153-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
@@ -367,6 +367,9 @@ Free platforms that host models — run inference without downloading anything.
 | [Modal](https://modal.com/) | Free monthly credits for serverless GPU compute. |
 | [Replicate (Free Tier)](https://replicate.com/) | Free credits for running community models. |
 | [Deepnote](https://deepnote.com/) | Free tier with GPU for data science and ML notebooks. |
+| [Beam](https://beam.cloud/) | $30/mo free credits for serverless GPU compute. Fast cold starts (<1s), auto-scaling, Python SDK. Open-source runtime. |
+| [Cerebrium](https://cerebrium.ai/) | $30 free trial credits for serverless GPU infrastructure. Sub-second cold starts, pay-per-second billing, auto-scaling. SOC 2 compliant. |
+| [Baseten](https://www.baseten.co/) | Free trial credits for serverless GPU inference. Truss open-source framework, auto-scaling, multiple GPU options (T4 to H100). |
 
 ---
 
