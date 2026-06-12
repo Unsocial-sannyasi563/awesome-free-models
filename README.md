@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2011%2C%202026-brightgreen?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2012%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-153-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-156-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 11, 2026. 6 broken links found and fixed during this check.
+> ✅ All links verified live on June 12, 2026. 6 broken links found and fixed during this check.
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -67,7 +67,7 @@ Notable open-weight models you can download and run on your own hardware.
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 12, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -86,8 +86,10 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Replicate](https://replicate.com/) | Free tier with limited credits for running open-source models. |
 | [Poe (Quora)](https://poe.com/) | Free tier with daily credits for GPT-4 mini, Claude instant, and community bots. |
 | [CatGPT](https://www.catgpt.cc/) | Completely free chat with multiple models, no login required. ⚠️ Currently unreachable (SSL cert expired as of June 2026). |
+| [Cerebras](https://cloud.cerebras.ai/) | **1M tokens/day free**, no credit card. Ultra-fast inference on WSE chips. Access Llama 3.3 70B, GPT-OSS 120B, Qwen 3, and more via OpenAI-compatible API. |
 | [Qwen Chat (Alibaba)](https://chat.qwen.ai/) | Free access to Qwen 3.6-Plus, Qwen 3.6-Max, and other Qwen models via web chat and API. 1M token context for agentic coding. |
 | [Ollama Cloud](https://ollama.com/cloud) | Free tier for running open-source models on Ollama's cloud infrastructure. Light usage included, 1 concurrent model. Same `ollama run` command as local. Zero data retention. |
+| [OpenAI API](https://platform.openai.com/) | **~$5 trial credits** for new API accounts. Access GPT-4o, GPT-4.1, o3, and more. Rate-limited free tier available after credits expire. |
 | [Mistral AI (La Plateforme)](https://mistral.ai/) | Free API tier with access to Mistral Large, Mistral Nemo, Codestral and more. 1 req/s, 500k tokens/min. Requires phone verification and data usage opt-in. |
 | [Cohere](https://cohere.com/) | Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
 | [DeepSeek Platform](https://deepseek.com/) | Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation. |
@@ -95,6 +97,7 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. Free compute credits via referral program. Supports Llama, Qwen, DeepSeek, and other open models. |
 | [Novita AI](https://novita.ai/) | Free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API with competitive pricing beyond the free tier. |
 | [Anakin.ai](https://anakin.ai/) | **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-4, Claude, and open-weight models. |
+| [Anthropic (Claude API)](https://console.anthropic.com/) | **~$5 trial credits** for new API accounts. Access Claude Opus, Sonnet, and Haiku models. Phone verification required. |
 | [Nebius AI](https://nebius.com/) | **$100 free credits** for new users. AI Studio with access to Llama, Qwen, DeepSeek, and other open-weight models. Fast inference on NVIDIA H100 infrastructure. |
 | [Fal.ai](https://fal.ai/) | Free starter credits for AI inference. Fast, serverless platform supporting Llama, Flux, and Stable Diffusion models. Pay-as-you-go beyond free tier. |
 | [Vercel AI Gateway](https://vercel.com/ai) | **$5/month free credits** for the AI Gateway. Proxy and cache requests across multiple LLM providers. SDK is open-source and free. |
