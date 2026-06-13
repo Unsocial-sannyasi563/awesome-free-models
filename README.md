@@ -4,8 +4,8 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2013%2C%202026-brightgreen?style=for-the-badge)
 ![Models](https://img.shields.io/badge/Models-32-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-161-blue?style=flat-square)
-![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-166-blue?style=flat-square)
+![Sections](https://img.shields.io/badge/Sections-16-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
 > ✅ All links verified live on June 13, 2026. 7 broken links found during this check (1 removed).
@@ -20,6 +20,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 - [🔌 Free API Providers](#-free-api-providers)
 - [💻 Local Inference Tools](#-local-inference-tools)
 - [💬 AI Chatbot UIs](#-ai-chatbot-uis)
+- [🖥 AI CLI Tools](#-ai-cli-tools)
 - [🤖 AI Coding Assistants](#-ai-coding-assistants)
 - [📝 Code Models](#-code-models)
 - [🔍 RAG & Vector Databases](#-rag--vector-databases)
@@ -110,7 +111,6 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Eden AI](https://www.edenai.co/) | Free tier aggregating 100+ models from multiple providers via a single API key. Unified interface for text, image, and code generation. No credit card. |
 | [RunPod](https://runpod.io/) | Free credits for serverless GPU inference. Deploy open-weight models as serverless endpoints. Supports Llama, Qwen, DeepSeek, and more. |
 | [FreeTheAi](https://freetheai.xyz/) | Free OpenAI-compatible AI API gateway. Discord-based key signup with daily check-in to keep access active. Streaming, tool calling, and multiple model support. No credit card. |
-| [OpenCode](https://opencode.ai/) | Go-based terminal AI coding assistant. Model-neutral, supports multiple LLM providers, LSP integration, and MCP tools. Free and open-source. [GitHub](https://github.com/opencode-ai/opencode) |
 
 ---
 
@@ -167,6 +167,25 @@ Free, open-source web interfaces for chatting with AI models — self-host or us
 
 ---
 
+## 🖥 AI CLI Tools
+
+> 📅 Last checked: June 13, 2026
+
+General-purpose terminal-based AI tools — chat, summarization, file operations, and more.
+
+| Name | Description |
+|------|-------------|
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | Google's open-source terminal AI agent. **1,000 requests/day free** on personal Google account. General-purpose agent for code, chat, and shell tasks. Apache 2.0. [GitHub](https://github.com/google-gemini/gemini-cli) |
+| [OpenCode](https://opencode.ai/) | Go-based terminal AI agent. Model-neutral, supports 75+ LLM providers, LSP integration, and MCP tools. General chat and coding. MIT. [GitHub](https://github.com/opencode-ai/opencode) |
+| [Pi](https://pi.dev/) | Open-source terminal AI agent with unified multi-provider API. Model-agnostic, extensible plugin architecture. [GitHub](https://github.com/earendil-works/pi) |
+| [MiMo Code](https://mimo.xiaomi.com/mimocode) | Xiaomi's terminal AI tool with persistent memory, multi-agent orchestration, and 1M-token context. Free tier available. [GitHub](https://github.com/KoinaAI/MiMo-CLI) |
+| [Hai](https://github.com/aianyai/hai) | Lightweight terminal AI agent. Run commands or ask questions. Supports OpenAI, Claude, Gemini, DeepSeek, and more. Streaming output, pipe support, predefined prompts. GPL-3.0. |
+| [Tuillem](https://github.com/seesee/tuillem) | 3-pane terminal AI chat client. Switch providers and models mid-conversation. Full markdown rendering, SQLite history with full-text search. Plugin system. |
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Nous Research's open-source terminal AI agent. Full TUI with slash commands, 40+ tools, persistent memory. Multi-platform gateway (Telegram, Discord, Slack). Apache 2.0. |
+| [Saarthi](https://github.com/snehangshu2002/saarthi-cli) | LangGraph-powered CLI chatbot with persistent memory, multi-agent delegation, MCP integration, and dynamic skill system. Local-first architecture. |
+
+---
+
 ## 🤖 AI Coding Assistants
 
 > 📅 Last checked: June 11, 2026
@@ -184,9 +203,7 @@ Free tools that integrate AI into your development workflow.
 | [Bolt.new (StackBlitz)](https://bolt.new/) | Free tier for AI-powered full-stack web app development in browser. |
 | [Claude Code (Anthropic)](https://docs.anthropic.com/en/docs/claude-code/overview) | Free tier with limited usage for terminal-based AI coding assistant. |
 | [Cursor 3](https://www.cursor.com/) | **Apr 2026.** AI-native code editor with deep model integration and agentic features. Free tier available. |
-| [OpenCode](https://opencode.ai/) | Go-based terminal AI coding assistant. Model-neutral, supports multiple LLM providers, LSP integration, and MCP tools. [GitHub](https://github.com/opencode-ai/opencode) |
 | [CodeBuff](https://www.codebuff.com/) | CLI-based AI coding assistant that understands entire codebases. Multi-agent architecture, works with any model provider through natural language instructions. |
-| [Pi](https://pi.dev/) | Open-source terminal AI coding agent with a unified multi-provider API. Model-agnostic, supports OpenAI, Anthropic, Google, and any OpenAI-compatible endpoint. Extensible plugin architecture. [GitHub](https://github.com/earendil-works/pi) |
 | [Cline](https://cline.bot/) | Popular autonomous VS Code agent. Creates/edits files, runs terminal commands, browses web. Open-source, BYOK (bring your own API key). [GitHub](https://github.com/cline/cline) |
 | [Roo Code](https://github.com/RooVetGit/Roo-Code) | Community fork of Cline with faster feature releases. Open-source VS Code agent with deep model integration. |
 | [OpenHands](https://all-hands.dev/) | Autonomous AI software engineer. Navigates file systems, runs shell commands, tests code in browser. Self-hostable. [GitHub](https://github.com/All-Hands-AI/OpenHands) |
