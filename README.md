@@ -2,13 +2,13 @@
 
 > A curated list of free AI models, APIs, and tools you can use without paying a cent.
 
-![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2012%2C%202026-brightgreen?style=for-the-badge)
-![Models](https://img.shields.io/badge/Models-29-blue?style=flat-square)
-![Tools](https://img.shields.io/badge/Tools-156-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Checked-June%2013%2C%202026-brightgreen?style=for-the-badge)
+![Models](https://img.shields.io/badge/Models-32-blue?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-161-blue?style=flat-square)
 ![Sections](https://img.shields.io/badge/Sections-15-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-CC0-lightgrey?style=flat-square)
 
-> ✅ All links verified live on June 12, 2026. 6 broken links found and fixed during this check.
+> ✅ All links verified live on June 13, 2026. 7 broken links found during this check (1 removed).
 
 Running AI shouldn't require a credit card. This list curates genuinely free models — open-weight models you can self-host, free API tiers from major providers, and tools to run everything locally.
 
@@ -62,12 +62,13 @@ Notable open-weight models you can download and run on your own hardware.
 | [Snowflake Arctic](https://huggingface.co/Snowflake/arctic) | **Apr 2024.** Enterprise MoE model balancing high-quality performance with efficient training costs. Optimized for complex data operations. Apache 2.0. |
 | [Falcon 3 (TII)](https://huggingface.co/tiiuae/Falcon3-7B-Instruct) | **Dec 2024.** Compact high-performance model with strong reasoning. Designed for efficient deployment on resource-constrained hardware. TII Falcon-LLM License 2.0. |
 | [Apple OpenELM](https://huggingface.co/Apple/OpenELM-3B) | **Apr 2024.** Family of efficient on-device SLMs using layer-wise attention scaling. Runs locally on Apple Silicon with full privacy. Apple Sample Code License. |
+| [Nemotron 3 Ultra (NVIDIA)](https://huggingface.co/nvidia) | **Jun 2026.** 550B MoE (55B active). Hybrid Mamba-Transformer, NVFP4 quantization. Optimized for agentic workflows. Fully open (weights, data, recipes). OpenMDW-1.1 license. |
 
 ---
 
 ## 🔌 Free API Providers
 
-> 📅 Last checked: June 12, 2026
+> 📅 Last checked: June 13, 2026
 
 Providers offering free tiers to access models via API — no local hardware required.
 
@@ -78,9 +79,8 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Groq](https://console.groq.com/) | Ultra-fast inference. Free tier includes Llama, Gemma, Mixtral, Whisper models with generous daily rate limits. |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Free tier for thousands of community models. Rate-limited but excellent for testing. |
 | [NVIDIA NIM](https://build.nvidia.com/) | Free API access to accelerated versions of Llama, Mistral, Gemma, and more on NVIDIA infrastructure. |
-| [DeepInfra](https://deepinfra.com/) | Serverless inference. Free tier with daily rate limits for popular open-source models. |
-| [Together AI](https://www.together.ai/) | Free trial credits for new users. Fast inference on open-source models. |
-| [Fireworks AI](https://fireworks.ai/) | Free tier for community models. Optimized for low latency. |
+| [Together AI](https://www.together.ai/) | ⚠️ No longer offers free trials. Access requires a minimum $5 prepaid credit purchase (200+ open-source models). |
+| [Fireworks AI](https://fireworks.ai/) | $1 free starter credits for new users. Optimized for low latency across 50+ models. |
 | [SiliconFlow](https://siliconflow.cn/) | Rising platform with free access to many open-source models. |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | Free tier for running select open-source models at the edge. |
 | [Replicate](https://replicate.com/) | Free tier with limited credits for running open-source models. |
@@ -94,8 +94,8 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Cohere](https://cohere.com/) | Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
 | [DeepSeek Platform](https://deepseek.com/) | Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation. |
 | [GitHub Models](https://github.com/marketplace/models) | Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API. |
-| [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. Free compute credits via referral program. Supports Llama, Qwen, DeepSeek, and other open models. |
-| [Novita AI](https://novita.ai/) | Free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API with competitive pricing beyond the free tier. |
+| [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. **No standalone free tier** — free credits available via referral program ($5 each for referrer and referee when referee deposits $5+). Supports Llama, Qwen, DeepSeek, and more. |
+| [Novita AI](https://novita.ai/) | $0.50 free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API. |
 | [Anakin.ai](https://anakin.ai/) | **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-4, Claude, and open-weight models. |
 | [Anthropic (Claude API)](https://console.anthropic.com/) | **~$5 trial credits** for new API accounts. Access Claude Opus, Sonnet, and Haiku models. Phone verification required. |
 | [Nebius AI](https://nebius.com/) | **$100 free credits** for new users. AI Studio with access to Llama, Qwen, DeepSeek, and other open-weight models. Fast inference on NVIDIA H100 infrastructure. |
@@ -104,7 +104,12 @@ Providers offering free tiers to access models via API — no local hardware req
 | [AI21 Labs](https://www.ai21.com/) | **$10 trial credits** for accessing Jamba 1.5, Jamba 1.6, and other AI21 models. Valid for 3 months. Requires account sign-up. |
 | [Amazon Bedrock](https://aws.amazon.com/bedrock/) | **$200 AWS credits** for new customers. Access to Llama, Mistral, Claude, Titan, and other foundation models via API. |
 | [Azure AI Foundry](https://azure.microsoft.com/en-us/products/ai-foundry/) | **$200 free trial credits** (30 days). Access GPT-4o, Llama, Mistral, Phi, and other models via Azure's unified AI platform. |
+| [xAI (Grok)](https://console.x.ai/) | **$25 sign-up credits** + **$150/month** with data-sharing program. Access Grok-3, Grok-3 Mini via API. No credit card required. |
+| [ZeroLimitAI](https://www.zerolimitai.com/developers) | Free API with auto model routing to the best available free model (Gemini 2.5 Flash, Llama 4, DeepSeek R1). No credit card, drop-in OpenAI replacement. |
+| [Stability AI](https://platform.stability.ai/) | Free API credits for image generation with Stable Diffusion and Stable Video models. Rate-limited access without credit card. |
+| [Eden AI](https://www.edenai.co/) | Free tier aggregating 100+ models from multiple providers via a single API key. Unified interface for text, image, and code generation. No credit card. |
 | [RunPod](https://runpod.io/) | Free credits for serverless GPU inference. Deploy open-weight models as serverless endpoints. Supports Llama, Qwen, DeepSeek, and more. |
+| [FreeTheAi](https://freetheai.xyz/) | Free OpenAI-compatible AI API gateway. Discord-based key signup with daily check-in to keep access active. Streaming, tool calling, and multiple model support. No credit card. |
 | [OpenCode](https://opencode.ai/) | Go-based terminal AI coding assistant. Model-neutral, supports multiple LLM providers, LSP integration, and MCP tools. Free and open-source. [GitHub](https://github.com/opencode-ai/opencode) |
 
 ---
