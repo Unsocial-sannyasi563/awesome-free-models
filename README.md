@@ -37,7 +37,7 @@ Running AI shouldn't require a credit card. This list curates genuinely free mod
 
 ## 🧠 Open-Weight Models
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Notable open-weight models you can download and run on your own hardware.
 
@@ -80,7 +80,7 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Groq](https://console.groq.com/) | Ultra-fast inference. Free tier includes Llama, Gemma, Mixtral, Whisper models with generous daily rate limits. |
 | [Hugging Face Inference API](https://huggingface.co/inference-api) | Free tier for thousands of community models. Rate-limited but excellent for testing. |
 | [NVIDIA NIM](https://build.nvidia.com/) | Free API access to accelerated versions of Llama, Mistral, Gemma, and more on NVIDIA infrastructure. |
-| [Together AI](https://www.together.ai/) | ⚠️ No longer offers free trials. Access requires a minimum $5 prepaid credit purchase (200+ open-source models). |
+| [Together AI](https://www.together.ai/) | **$25 free credits** for new accounts (no credit card required). Access 200+ open-source models. Previously required prepaid purchase. |
 | [Fireworks AI](https://fireworks.ai/) | $1 free starter credits for new users. Optimized for low latency across 50+ models. |
 | [SiliconFlow](https://siliconflow.cn/) | Rising platform with free access to many open-source models. |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | Free tier for running select open-source models at the edge. |
@@ -95,7 +95,7 @@ Providers offering free tiers to access models via API — no local hardware req
 | [Cohere](https://cohere.com/) | Free evaluation API key for Command R, Command R+, Embed, and Rerank models. 20 req/min, 1,000 req/month. |
 | [DeepSeek Platform](https://deepseek.com/) | Free API credits for new users (5M tokens). Access to DeepSeek V4, DeepSeek-R1, and other models. Generous free allocation. |
 | [GitHub Models](https://github.com/marketplace/models) | Free tier for GitHub users. Access GPT-4o, Llama 3.3, Mistral, and more with rate-limited playground and API. |
-| [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. **No standalone free tier** — free credits available via referral program ($5 each for referrer and referee when referee deposits $5+). Supports Llama, Qwen, DeepSeek, and more. |
+| [Hyperbolic](https://hyperbolic.xyz/) | Open-access AI cloud with affordable inference. **No standalone free tier** — free credits available via referral program ($5 for referrer, $6 for referee when referee deposits $5+). Supports Llama, Qwen, DeepSeek, and more. |
 | [Novita AI](https://novita.ai/) | $0.50 free credits for testing 100+ models including Llama, Qwen, DeepSeek, and Mistral. OpenAI-compatible API. |
 | [Anakin.ai](https://anakin.ai/) | **30 daily free credits** for accessing multiple AI models. Web chat interface and API access. Supports GPT-4, Claude, and open-weight models. |
 | [Anthropic (Claude API)](https://console.anthropic.com/) | **~$5 trial credits** for new API accounts. Access Claude Opus, Sonnet, and Haiku models. Phone verification required. |
@@ -109,14 +109,14 @@ Providers offering free tiers to access models via API — no local hardware req
 | [ZeroLimitAI](https://www.zerolimitai.com/developers) | Free API with auto model routing to the best available free model (Gemini 2.5 Flash, Llama 4, DeepSeek R1). No credit card, drop-in OpenAI replacement. |
 | [Stability AI](https://platform.stability.ai/) | Free API credits for image generation with Stable Diffusion and Stable Video models. Rate-limited access without credit card. |
 | [Eden AI](https://www.edenai.co/) | Free tier aggregating 100+ models from multiple providers via a single API key. Unified interface for text, image, and code generation. No credit card. |
-| [RunPod](https://runpod.io/) | Free credits for serverless GPU inference. Deploy open-weight models as serverless endpoints. Supports Llama, Qwen, DeepSeek, and more. |
+| [RunPod](https://runpod.io/) | **$5 signup credits** (no credit card required). Deploy open-weight models on serverless GPU or dedicated pods. Supports Llama, Qwen, DeepSeek, and more. |
 | [FreeTheAi](https://freetheai.xyz/) | Free OpenAI-compatible AI API gateway. Discord-based key signup with daily check-in to keep access active. Streaming, tool calling, and multiple model support. No credit card. |
 
 ---
 
 ## 💻 Local Inference Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Run models on your own machine — no API keys needed, full privacy.
 
@@ -151,7 +151,7 @@ Run models on your own machine — no API keys needed, full privacy.
 
 ## 💬 AI Chatbot UIs
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free, open-source web interfaces for chatting with AI models — self-host or use hosted versions.
 
@@ -188,7 +188,7 @@ General-purpose terminal-based AI tools — chat, summarization, file operations
 
 ## 🤖 AI Coding Assistants
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free tools that integrate AI into your development workflow.
 
@@ -215,7 +215,7 @@ Free tools that integrate AI into your development workflow.
 
 ## 📝 Code Models
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Specialized for code generation, completion, and analysis.
 
@@ -224,7 +224,7 @@ Specialized for code generation, completion, and analysis.
 | [MAI-Code-1-Flash (Microsoft)](https://huggingface.co/microsoft) | **Jun 2026.** Microsoft's open-weight coding model for lowering infrastructure costs. |
 | [DeepSeek Coder](https://huggingface.co/deepseek-ai) | State-of-the-art open-weight code generation. DeepSeek's coder series leads SWE-bench. MIT license. |
 | [Qwen2.5-Coder (Alibaba)](https://huggingface.co/collections/Qwen/qwen25-coder) | Highly capable code model series (1.5B–32B). Excellent balance of speed and quality. Apache 2.0. |
-| [Codestral (Mistral)](https://huggingface.co/mistralai/Codestral-22B-v0.1) | Mistral's dedicated code generation model — fill-in-the-middle, completion, and instruction. [GitHub](https://github.com/mistralai/codestral) |
+| [Codestral (Mistral)](https://huggingface.co/mistralai/Codestral-22B-v0.1) | Mistral's dedicated code generation model — fill-in-the-middle, completion, and instruction. |
 | [CodeGemma (Google)](https://huggingface.co/google/codegemma-7b) | Google's Gemma architecture fine-tuned for code completion and instruction. Apache 2.0. |
 | [StarCoder2 (BigCode)](https://huggingface.co/bigcode/starcoder2-15b) | Transparently trained code model covering 619 languages. OpenRAIL-M license. |
 | [Yi-Coder (01.AI)](https://huggingface.co/01-ai/Yi-Coder-9B-Chat) | Efficient coding model with strong long-context understanding. Yi License (Apache 2.0 compatible). |
@@ -243,7 +243,7 @@ Specialized for code generation, completion, and analysis.
 
 ## 🔍 RAG & Vector Databases
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free tools for building retrieval-augmented generation pipelines — vector storage, embedding search, and document retrieval.
 
@@ -268,7 +268,7 @@ Free tools for building retrieval-augmented generation pipelines — vector stor
 
 ## 🧩 Agentic Frameworks
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free, open-source frameworks for building AI agents and multi-agent systems.
 
@@ -277,7 +277,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 | [LangGraph (LangChain)](https://langchain-ai.github.io/langgraph/) | Low-level framework for building stateful, multi-agent applications. [GitHub](https://github.com/langchain-ai/langgraph) |
 | [CrewAI](https://www.crewai.com/) | Multi-agent framework for orchestrating specialized AI agents to work together. [GitHub](https://github.com/crewAIInc/crewAI) |
 | [AutoGen (Microsoft)](https://microsoft.github.io/autogen/) | Extensible framework for building multi-agent conversations. [GitHub](https://github.com/microsoft/autogen) |
-| [Agno (formerly Phidata)](https://www.agno.com/) | Full-stack AI framework for building multimodal agents with memory, knowledge, and tools. [GitHub](https://github.com/agno-org/agno) |
+| [Agno (formerly Phidata)](https://www.agno.com/) | Full-stack AI framework for building multimodal agents with memory, knowledge, and tools. [GitHub](https://github.com/agno-agi/agno) |
 | [PydanticAI](https://ai.pydantic.dev/) | Agent framework by Pydantic with type-safe outputs and dependency injection. [GitHub](https://github.com/pydantic/pydantic-ai) |
 | [Mastra](https://mastra.ai/) | TypeScript framework for building AI applications and agent workflows. [GitHub](https://github.com/mastra-ai/mastra) |
 | [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) | Lightweight SDK for building single and multi-agent systems. [GitHub](https://github.com/openai/openai-agents-python) |
@@ -309,7 +309,7 @@ Free, open-source frameworks for building AI agents and multi-agent systems.
 
 ## 🎛 Fine-tuning Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Tools to fine-tune free models on your own data — all free and open-source.
 
@@ -334,7 +334,7 @@ Tools to fine-tune free models on your own data — all free and open-source.
 
 ## ✨ Prompt Engineering Tools
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free tools for testing, managing, and optimizing prompts.
 
@@ -356,14 +356,14 @@ Free tools for testing, managing, and optimizing prompts.
 
 ## 📊 Datasets
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free, open datasets for training, fine-tuning, and evaluating models.
 
 | Name | Description |
 |------|-------------|
 | [Hugging Face Datasets](https://huggingface.co/datasets) | The standard hub for open datasets. 150,000+ datasets across all tasks. |
-| [Common Corpus](https://huggingface.co/datasets/common-catalog) | Massive open-source dataset for training large language models. |
+| [Common Corpus](https://huggingface.co/datasets/PleIAs/Common-Corpus) | Massive open-source dataset for training large language models. Gated dataset — requires Hugging Face login. |
 | [The Stack v2 (BigCode)](https://huggingface.co/datasets/bigcode/the-stack-v2) | Large-scale code dataset covering 619 programming languages. Permissive license. |
 | [FineWeb (Hugging Face)](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | High-quality web dataset for LLM pre-training. 15T tokens. |
 | [Dolly (Databricks)](https://huggingface.co/datasets/databricks/databricks-dolly-15k) | 15k instruction-response pairs for fine-tuning. CC-BY-SA. |
@@ -378,7 +378,7 @@ Free, open datasets for training, fine-tuning, and evaluating models.
 
 ## ☁ Model Hosting Platforms
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free platforms that host models — run inference without downloading anything.
 
@@ -400,7 +400,7 @@ Free platforms that host models — run inference without downloading anything.
 
 ## 📚 Learning Resources
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 Free courses, books, and tutorials for learning AI and LLMs.
 
@@ -421,7 +421,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 🏆 Resources & Leaderboards
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 | Name | Description |
 |------|-------------|
@@ -439,7 +439,7 @@ Free courses, books, and tutorials for learning AI and LLMs.
 
 ## 👥 Communities
 
-> 📅 Last checked: June 11, 2026
+> 📅 Last checked: June 13, 2026
 
 | Name | Description |
 |------|-------------|
